@@ -13,3 +13,6 @@ Theoretically in a Sequence to Sequence architecture, the output of the Decoder 
 
 We shall however change this in the inference or the testing stage, where we shall use the more traditional method of using the output of previous decoder time step as the current input to predict the output character.
 
+<p align="center">
+    <img width="500" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAGfe-CAf9WfbsHO76idzWsTBVJosbbZD0jg&s" alt="RAG">
+</p>
